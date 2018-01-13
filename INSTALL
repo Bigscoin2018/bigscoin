@@ -1,0 +1,9 @@
+Building BigsCoin
+
+See doc/readme-qt.rst for instructions on building BigsCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BigsCoin.
+
+See doc/build-*.txt for instructions on building BigsCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BigsCoin.
